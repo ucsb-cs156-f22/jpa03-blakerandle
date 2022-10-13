@@ -1,4 +1,6 @@
-# demo-spring-react-example-v2: dsre-v2
+# jpa03-blakerandle
+
+[![codecov](https://codecov.io/gh/ucsb-cs156-f22/jpa03-blakerandle/branch/main/graph/badge.svg?token=9QFNFGFFYO)](https://codecov.io/gh/ucsb-cs156-f22/jpa03-blakerandle)
 
 Storybook is here:
 * Production: <https://ucsb-cs156-f22.github.io/STARTER-jpa03-docs/>
